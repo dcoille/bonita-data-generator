@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <profiles:profiles xmlns:profiles="http://www.bonitasoft.org/ns/profile/6.1">
     <profile name="User" isDefault="true">
-        <description>This is a default profile. Name and description will be translated in Bonita Portal. Do not edit the name or the description.</description>
+        <description>Il s'agit d'un profil par défaut. Le nom et la description sont traduits tels quels dans Bonita Portal. Ne les éditez pas.</description>
         <profileEntries/>
         <profileMapping>
             <users/>
@@ -13,7 +13,7 @@
         </profileMapping>
     </profile>
     <profile name="Administrator" isDefault="true">
-        <description>This is a default profile. Name and description will be translated in Bonita Portal. Do not edit the name or the description.</description>
+        <description>Il s'agit d'un profil par défaut. Le nom et la description sont traduits tels quels dans Bonita Portal. Ne les éditez pas.</description>
         <profileEntries/>
         <profileMapping>
             <users/>
@@ -25,7 +25,7 @@
         </profileMapping>
     </profile>
     <profile name="Process manager" isDefault="true">
-        <description>This is a default profile. Name and description will be translated in Bonita Portal. Do not edit the name or the description.</description>
+        <description>Il s'agit d'un profil par défaut. Le nom et la description sont traduits tels quels dans Bonita Portal. Ne les éditez pas.</description>
         <profileEntries/>
         <profileMapping>
             <users/>
